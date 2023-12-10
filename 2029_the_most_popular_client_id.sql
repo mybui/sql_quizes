@@ -1,5 +1,3 @@
--- https://platform.stratascratch.com/coding/2029-the-most-popular-client_id-among-users-using-video-and-voice-calls/discussion?code_type=1
-
 with rate as (
     select
         client_id,

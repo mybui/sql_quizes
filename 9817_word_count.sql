@@ -32,5 +32,4 @@ from
         -- where the key represents the lexeme and the values represent the lexeme’s position
         'SELECT to_tsvector(contents) FROM google_file_store WHERE filename
         ILIKE ''draft%'''
-    )
-;
+    );
